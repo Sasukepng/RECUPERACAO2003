@@ -1,0 +1,45 @@
+Parte 1
+Por que eu escolhi esse tema?
+
+Porque eu gosto de carro e quis escolher esse tema de página de carros da marca Ferrari pois sou muito fã da Ferrari.
+
+Como usei a IA como ferramenta?
+
+Usei a IA para me auxiliar a fazer os códigos para que não tenha erro.
+
+Quais foram minhas maiores descobertas?
+
+A diversidade de códigos que posso utilizar para fazer um sistema.
+
+Parte 2
+
+O que o sistema faz?
+
+O sistema é uma página de carros da Ferrari para fã da Ferrari reunirem mais informações sobre as Ferraris e continuar amando essas naves.
+
+3 casos de uso principais?
+
+Venda: Catálogo -> informação -> interesse.
+
+Personalização: Configurador -> engajamento -> conversão.
+
+Emoção: História -> conexão -> fidelização.
+
+Quem/que se conecta com o sistema?
+
+O ator (acessante da página) e o sistema (a página).
+
+Parte 3
+
+O que foi mais desafiador?
+
+Fazer tudo.
+
+O que eu aprendi sobre análise de sistemas?
+
+Que é dificil fazer uma página sozinho.
+
+Como melhoraria esse processo?
+
+Eu não sei, só fui fazendo.
+
